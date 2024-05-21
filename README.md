@@ -2,7 +2,7 @@
 
 <h3 align="left">👋<br>Olá, me chamo Victor Barbosa! Desenvolvedor Front-End</h3>
 
-<hr>
+<hr style="height: 1px; border: none; background-color: #ccc;">
 
 <p align="left">💼 Trabalho como Técnico de suporte N2 na Quality Digital</p>
 
