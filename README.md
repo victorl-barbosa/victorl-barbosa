@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h3 align="center">👋 Olá</h3>
+<h1 align="center">👋 Olá</h1>
 <hr>
 
 <p align="left">Eu sou Victor Barbosa, sou um desenvolvedor Front-end apaixonado por criar interfaces de usuário bonitas e funcionais. Com habilidades em HTML, CSS e JavaScript, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
@@ -22,8 +20,6 @@ Estou motivado e pronto para enfrentar novos desafios. Adoraria a chance de cont
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -50,20 +46,5 @@ Estou motivado e pronto para enfrentar novos desafios. Adoraria a chance de cont
 ###
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorl-barbosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=highcontrast&hide_border=false&order=2&custom_title=Linguagens" height="137" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=victorl-barbosa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="115" alt="stats graph"  />
-</div>
-
-###
-
-<
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
