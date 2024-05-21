@@ -11,7 +11,6 @@ Estou motivado e pronto para enfrentar novos desafios. Adoraria a chance de cont
 </p>
 
 <h1>Técnologias</h1>
-<hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
