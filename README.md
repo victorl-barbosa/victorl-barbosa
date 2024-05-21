@@ -1,19 +1,14 @@
 <br clear="both">
 
-<h3 align="left">👋<br>Olá, me chamo Victor Barbosa! Desenvolvedor Front-End</h3>
+<h3 align="left">👋 Olá</h3>
+<hr>
 
-<hr style="height: 0.5px; border: none; background-color: #ccc;">
+<p align="left">Eu sou Victor Barbosa, sou um desenvolvedor Front-end apaixonado por criar interfaces de usuário bonitas e funcionais. Com habilidades em HTML, CSS e JavaScript, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
-<p align="left">💼 Trabalho como Técnico de suporte N2 na Quality Digital</p>
+Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor Front-end. Tenho trabalhado em diversos projetos pessoais e colaborado em projetos open-source para ganhar experiência prática e contribuir com a comunidade.
 
-###
-
-<p align="left">🎯 Com o objetivo de conseguir a minha primeira vaga como desenvolvedor Front-end</p>
-
-###
-
-<p align="left">📚 Atualmente estou me aprofundando mais nos conceitos em Javascript e começando os estudos em React</p>
-
+Estou motivado e pronto para enfrentar novos desafios. Adoraria a chance de contribuir com uma equipe talentosa e continuar crescendo como desenvolvedor. 
+</p>
 ---
 
 <div align="center">
