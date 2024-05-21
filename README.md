@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">👋 Olá</h3>
+<h3 align="center">👋 Olá</h3>
 <hr>
 
 <p align="left">Eu sou Victor Barbosa, sou um desenvolvedor Front-end apaixonado por criar interfaces de usuário bonitas e funcionais. Com habilidades em HTML, CSS e JavaScript, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
@@ -10,7 +10,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 Estou motivado e pronto para enfrentar novos desafios. Adoraria a chance de contribuir com uma equipe talentosa e continuar crescendo como desenvolvedor. 
 </p>
 
-<h1>Técnologias</h1>
+<h1 align="center">Técnologias</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
